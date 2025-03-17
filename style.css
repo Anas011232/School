@@ -450,7 +450,10 @@ font-weight: 700;
     .parent{
         display: none;
     }
-   
+    .cd,.cd1,.cd2{
+        width: 300px;
+        margin: 0 auto;
+    }
     .fun{
         display: none;
     }
