@@ -459,10 +459,13 @@ font-weight: 700;
     }
     .all{
         margin: 0;
-        margin-left: 20px;
-        margin-right: 20px;
+       
         margin-top: 50px;
+        
+      
     }
+    
+   
     .down{
         flex-direction: column;
         gap: 80px ;
@@ -479,6 +482,10 @@ font-weight: 700;
     .down-icon{
         margin-top: 0px;
         margin-bottom: 40px;
+    }
+    .anas{
+        margin-left: 20px;
+        margin-right: 20px;
     }
     
 
