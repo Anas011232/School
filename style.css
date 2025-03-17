@@ -346,8 +346,8 @@ padding: 125px 125px;
     display: flex;
 }
 .ek{
-    width: 399.02px;
-height: 100px;
+    max-width: 399.02px;
+
 }
 .down-icon{
     margin-top: 20px;
@@ -480,7 +480,7 @@ font-weight: 700;
         margin-top: 0px;
         margin-bottom: 40px;
     }
-   
+    
 
     
 }
