@@ -442,9 +442,7 @@ font-weight: 700;
     .standard{
        margin: 0 auto;
     }
-    .cd,.cd1,.cd2{
-        margin: 0 auto;
-    }
+    
     .cards{
         flex-direction: column;
 
@@ -452,9 +450,7 @@ font-weight: 700;
     .parent{
         display: none;
     }
-    .cd,.cd1,.cd2{
-        width: 370px;
-    }
+   
     .fun{
         display: none;
     }
