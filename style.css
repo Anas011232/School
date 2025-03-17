@@ -483,9 +483,22 @@ font-weight: 700;
         margin-top: 0px;
         margin-bottom: 40px;
     }
-    .anas{
-        margin-left: 20px;
+    .grid{
         margin-right: 20px;
+        margin-left: 20px;
+    }
+    .green{
+        font-size: 0.6rem;
+        position: relative;
+bottom: 20px;
+left: 35px;
+    }
+    .bl{
+        font-size: 0.6rem;
+        position: relative;
+        bottom: 20px;
+        left: 38px;
+
     }
     
 
